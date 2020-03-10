@@ -1,0 +1,34 @@
+{
+  "streams": [
+    {
+      "title": "Great Stream",
+      "description": "hello world",
+      "userId": "105203386090628253376",
+      "id": 1
+    },
+    {
+      "title": "fsgf",
+      "description": "hello",
+      "userId": "134234",
+      "id": 2
+    },
+    {
+      "title": "hello",
+      "description": "hello world hello world",
+      "userId": "105203386090628253376",
+      "id": 3
+    },
+    {
+      "title": "my first stream",
+      "description": "this is a great stream",
+      "userId": "105203386090628253376",
+      "id": 4
+    },
+    {
+      "title": "New Stream1",
+      "description": "I just created a new stream1",
+      "userId": "105203386090628253376",
+      "id": 5
+    }
+  ]
+}
